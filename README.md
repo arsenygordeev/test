@@ -1,2 +1,2 @@
-# test
-test repository
+# Don't mind this repository
+To be deleted
